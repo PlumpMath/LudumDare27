@@ -1,0 +1,235 @@
+textures.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enemyRed
+  rotate: false
+  xy: 1996, 903
+  size: 50, 48
+  orig: 50, 50
+  offset: 0, 1
+  index: -1
+DefenderBar3
+  rotate: false
+  xy: 154, 1140
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+machineGunIdle
+  rotate: false
+  xy: 1898, 969
+  size: 48, 50
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+EarthBar4
+  rotate: false
+  xy: 2, 1122
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+EarthBar0
+  rotate: false
+  xy: 2, 1194
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+bigBullet
+  rotate: false
+  xy: 1417, 484
+  size: 7, 13
+  orig: 15, 15
+  offset: 4, 2
+  index: -1
+flamethrower
+  rotate: false
+  xy: 1998, 1005
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+introScreen2
+  rotate: false
+  xy: 1446, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+DefenderBar6
+  rotate: false
+  xy: 154, 1086
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+spaceBG
+  rotate: false
+  xy: 804, 2
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
+EarthBar3
+  rotate: false
+  xy: 2, 1140
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+DefenderBar2
+  rotate: false
+  xy: 154, 1158
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+machineGun2
+  rotate: false
+  xy: 1948, 1005
+  size: 48, 50
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+normalBullet
+  rotate: false
+  xy: 1406, 484
+  size: 9, 15
+  orig: 15, 15
+  offset: 3, 0
+  index: -1
+enemyGreen
+  rotate: false
+  xy: 1898, 919
+  size: 50, 48
+  orig: 50, 50
+  offset: 0, 1
+  index: -1
+ship
+  rotate: false
+  xy: 1950, 953
+  size: 48, 50
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+introScreen1
+  rotate: false
+  xy: 804, 484
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+earth
+  rotate: false
+  xy: 1898, 730
+  size: 123, 121
+  orig: 125, 125
+  offset: 0, 1
+  index: -1
+enemyYellow
+  rotate: false
+  xy: 1996, 853
+  size: 50, 48
+  orig: 50, 50
+  offset: 0, 1
+  index: -1
+DefenderBar1
+  rotate: false
+  xy: 154, 1176
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+EarthBar6
+  rotate: false
+  xy: 2, 1086
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+DefenderBar5
+  rotate: false
+  xy: 154, 1104
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+machineGun1
+  rotate: false
+  xy: 1898, 1021
+  size: 48, 50
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+EarthBar2
+  rotate: false
+  xy: 2, 1158
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+flame4
+  rotate: false
+  xy: 2, 1224
+  size: 156, 454
+  orig: 250, 500
+  offset: 40, 23
+  index: -1
+UFOdeath
+  rotate: false
+  xy: 1898, 853
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+PCdeath
+  rotate: false
+  xy: 1406, 730
+  size: 490, 492
+  orig: 500, 500
+  offset: 0, 2
+  index: -1
+lightning
+  rotate: false
+  xy: 1406, 604
+  size: 600, 124
+  orig: 600, 124
+  offset: 0, 0
+  index: -1
+taser
+  rotate: false
+  xy: 2, 2
+  size: 800, 668
+  orig: 800, 668
+  offset: 0, 0
+  index: -1
+DefenderBar0
+  rotate: false
+  xy: 154, 1194
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+EarthBar5
+  rotate: false
+  xy: 2, 1104
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+DefenderBar4
+  rotate: false
+  xy: 154, 1122
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
+EarthBar1
+  rotate: false
+  xy: 2, 1176
+  size: 150, 16
+  orig: 150, 16
+  offset: 0, 0
+  index: -1
